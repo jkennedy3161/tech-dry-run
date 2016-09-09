@@ -3,6 +3,3 @@
 var hrr18 = {
   name: 'Jarrett Kennedy'
 }
-
-
-
